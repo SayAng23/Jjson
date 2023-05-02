@@ -5,39 +5,9 @@
       "age": 21,
       "email": "angelo@mail.com",
       "isEnrolled": true
-    }
-    ],
-  "studentmoreinfo": [
-      {
-        "id": "2001104242",
-        "section": "3b",
-        "year": "3rd year"
-      }
-      ]
-,
-
-  "students": [
-    {
-      "name": "Asuna Chan",
-      "age": 20,
-      "quotes": "It's ok tobe not ok."
-    },
-    {
-      "name": "Eto Kun",
-      "age": 19,
-      "quotes": "Seek Higher."
-    }
-  ],
-  "studentinfo": [
-    {
-      "classsection": "Section B",
-      "sectioncode": "T221",
-      "buksuemail": "2001104242@student.buksu.edu.ph"
-    },
-    {
-      "classsection": "Section D",
-      "sectioncode": "T222",
-      "buksuemail": "2001105090@student.buksu.edu.ph"
+      "id": "2001104242",
+      "section": "3b",
+      "year": "3rd year"
     }
   ]
 }
